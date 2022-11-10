@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url('../../websitebackground.jpg');
+	background-size: cover;
+	font-family: sans-serif;
+}
+
+.accordion {
+	padding: 50px;
+}
+
+.hobbytitle {
+	padding-top: 10px;
+}
+
+.futurejobtitle {
+	padding-top: 10px;
+}
